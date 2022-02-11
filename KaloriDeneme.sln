@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KaloriDeneme_1111", "KaloriDeneme_1111\KaloriDeneme_1111.csproj", "{FA30B085-06CA-4D5C-954E-DB75287D9A1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataBase", "DataBase\DataBase.csproj", "{47AA8850-812A-47DE-91D6-5E336E14D203}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModelCluster", "ModelCluster\ModelCluster.csproj", "{2115EA3E-58E7-448D-8668-D35DFC7AD9DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA30B085-06CA-4D5C-954E-DB75287D9A1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA30B085-06CA-4D5C-954E-DB75287D9A1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA30B085-06CA-4D5C-954E-DB75287D9A1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA30B085-06CA-4D5C-954E-DB75287D9A1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47AA8850-812A-47DE-91D6-5E336E14D203}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47AA8850-812A-47DE-91D6-5E336E14D203}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47AA8850-812A-47DE-91D6-5E336E14D203}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47AA8850-812A-47DE-91D6-5E336E14D203}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2115EA3E-58E7-448D-8668-D35DFC7AD9DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2115EA3E-58E7-448D-8668-D35DFC7AD9DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2115EA3E-58E7-448D-8668-D35DFC7AD9DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2115EA3E-58E7-448D-8668-D35DFC7AD9DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B471BC9B-EBCF-485B-BFFA-8A9EBA49B7AB}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://dev.azure.com/gizemyldz01
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = DataBase\\DataBase.csproj
+		SccProjectName1 = DataBase
+		SccLocalPath1 = DataBase
+		SccProjectUniqueName2 = KaloriDeneme_1111\\KaloriDeneme_1111.csproj
+		SccProjectName2 = KaloriDeneme_1111
+		SccLocalPath2 = KaloriDeneme_1111
+		SccProjectUniqueName3 = ModelCluster\\ModelCluster.csproj
+		SccProjectName3 = ModelCluster
+		SccLocalPath3 = ModelCluster
+	EndGlobalSection
+EndGlobal
